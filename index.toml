@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "6f1e622c82a380075843bb084a7ec3b1f1d12a4a02526d75e78b0924a860aa75"
-
-[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "398707c4d4a00b46e1bbea402bb4d3c829aaa6a9162047cfc3721a10a0d6b832"
+hash = "a8c9353a4a5b4d08823f39e13dd10f04e1c884e5fa5aedae511a26d111a76d8a"
 metafile = true
